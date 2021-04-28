@@ -1,0 +1,46 @@
+.menu-menu{
+    font-weight: bold;
+}
+
+.tittleName{
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 23px;
+}
+
+.menuItem{
+    margin-top: 30px;
+    border-top: solid 1px #DEDEDE;
+    padding-top: 5px;
+    margin-bottom: 60px;
+    /*   background-color: red;*/
+}
+
+.menuContainer{
+    margin-top: 43px;
+}
+
+.menuContain{
+    padding-top: 80px;
+    padding-left: 8px;
+    padding-bottom: 5px;
+    border-top: solid 1px #DEDEDE;
+    border-bottom: dotted 3px #DEDEDE;
+}
+
+.right{
+    float:right;
+    margin: 10px;
+
+}
+
+.left{
+    width: 70%;
+    float:left;
+    margin: 10px;
+    padding-left: 6px;
+/*    word-break: break-all;*/
+}
+
+
+

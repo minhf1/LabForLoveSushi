@@ -1,0 +1,42 @@
+
+.menu-find{
+    font-weight: bold;
+}
+.tittleName{
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 23px;
+    padding-left: 12px;
+
+}
+
+.right{
+    float:left;
+    margin-top: 5px;
+    padding-left: 80px;
+}
+
+.left{
+    width: 45%;
+    float:left;
+    margin: 5px;
+    word-break: break-all;
+    clear: left;
+}
+
+.resTel{
+    margin-top: 25px;
+}
+
+.resInfor{
+    float:left;
+    width: 100%;
+    margin-top: 5px;
+    padding-bottom: auto;
+    border-bottom: dotted 3px #DEDEDE;
+    font-size: 14px;
+}
+.imgMap{
+    width: 100%;
+    padding-top: 20px;
+}

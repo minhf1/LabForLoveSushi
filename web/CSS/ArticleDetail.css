@@ -1,0 +1,33 @@
+
+.rowArticle{
+   width: 100%;
+   margin-top: 30px;
+}
+
+.InArticleImg{
+    max-width: 100%;
+}
+
+.articleImg{
+    width: 60%;
+    float: left;
+    padding-right: 13px;
+    padding-bottom: 1px;
+}
+
+.articleInfor{
+/*    width: 35%;*/
+    float: none;
+}
+
+.content img{
+    border-radius: 10px;
+}
+
+.tittleName{
+    font-size: 26px;
+    font-weight: bold;
+    padding-left: 7px;
+}
+
+

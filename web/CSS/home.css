@@ -1,0 +1,56 @@
+
+.imgHome{
+    width: 100%;
+    border-radius: 10px;
+
+}
+
+.imgBox{
+    border-bottom: dotted 4px #DEDEDE; 
+/*    padding-top: 17px;*/
+    padding-bottom: 25px;
+}
+
+.articleImg{
+    width: 70%;
+    padding-right: 10px;
+    float: left;
+}
+
+.articleInfor{
+    width: 55%;
+    float: right;
+    word-wrap: break-word;
+}
+
+.rowArticle{
+    display: flex;
+}
+
+.InArticleImg{
+    max-width: 100%;
+   
+
+}
+
+.content img{
+    border-radius: 10px;
+}
+
+.menu-home{
+    font-weight: bold;
+}
+
+.article{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.article a{
+    text-decoration: none;
+}
+
+.pagination{
+    padding-top: 20px;
+}
+
